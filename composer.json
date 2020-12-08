@@ -1,0 +1,27 @@
+{
+    "name": "ejetar/laravel-rest-form-request",
+    "require": {
+        "laravel/framework": "^5.5 || ^6 || ^7 || ^8"
+    },
+    "description": "This method is used to orchestrate the required fields within a FormRequest, based on the HTTP method. REST standard.",
+    "homepage": "https://ejetar.com/projects/laravel-rest-form-request",
+    "type": "library",
+    "license": "MIT",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Guilherme Almeida Girardi",
+            "email": "guilhermeagirardi@gmail.com",
+            "homepage": "https://guilhermegirardi.com",
+            "role": "Developer"
+        }
+    ],
+    "keywords": [],
+    "autoload": {
+        "psr-4": {
+            "Ejetar\\RestFormRequest\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
