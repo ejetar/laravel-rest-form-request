@@ -1,7 +1,7 @@
 {
     "name": "ejetar/laravel-rest-form-request",
     "require": {
-        "laravel/framework": "^5.5 || ^6 || ^7 || ^8"
+        "laravel/framework": "^5.5 || ^6 || ^7 || ^8 || ^9"
     },
     "description": "This method is used to orchestrate the required fields within a FormRequest, based on the HTTP method. REST standard.",
     "homepage": "https://ejetar.com/projects/laravel-rest-form-request",
